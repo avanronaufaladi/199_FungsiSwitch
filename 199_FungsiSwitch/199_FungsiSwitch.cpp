@@ -14,6 +14,7 @@ int fungsiluas(int p, int l) {
 
 int main()
 {
+
 	int panjang, lebar;
 	cout << "masukkan panjang: ";
 	cin >> panjang;
@@ -26,3 +27,4 @@ int main()
 	cout << "luas persegi panjang dengan fungsi : " << fungsiluas(panjang, lebar) << endl;
 	return 0;
 
+	}

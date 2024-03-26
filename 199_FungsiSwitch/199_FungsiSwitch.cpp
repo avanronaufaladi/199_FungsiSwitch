@@ -20,3 +20,7 @@ int main()
 	cout << "masukkan lebar: ";
 	cin >> lebar;
 
+	prosedurLuas(panjang, lebar);
+	cout << "Luas persegi panjang dengan prosedur :" << luas << endl;
+
+

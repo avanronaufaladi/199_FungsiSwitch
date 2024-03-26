@@ -22,3 +22,11 @@ float pembagian(int a, int b)
 {
 	return a / b;
 }
+
+void inputdata()
+{
+	cout << "\nmasukkan bilangan pertama: ";
+	cin >> bilangan1;
+	cout << "\nmasukkan bilangan kedua: ";
+	cin >> bilangan2;
+}
